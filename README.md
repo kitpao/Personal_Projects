@@ -13,3 +13,14 @@ _________________________________________________
 - Check the repository --> https://github.com/kitpao/Positioning_and_Floating
 - See the result --> https://raw.githack.com/kitpao/Positioning_and_Floating/master/index.html
 
+**Old Apple page mirror page** _learning to use backgrounds and gradients_
+- Check the repository --> https://github.com/kitpao/using_gradients_for_Apple_old_page
+- See the result --> https://raw.githack.com/kitpao/using_gradients_for_Apple_old_page/master/index.html
+
+**Smashing Magazine design heatmap page** _learning to use styles, distributions and visual priorities_
+- Check the repository --> https://github.com/kitpao/Design_teardown
+- See the result --> https://raw.githack.com/kitpao/Design_teardown/master/index.html
+
+**Smashing Magazine design heatmap page** _learning to use Responsive design, compatible with smartphones, tablets and desktop_
+- Check the repository --> https://github.com/kitpao/Responsive-Design
+- See the result --> https://raw.githack.com/kitpao/Responsive-Design/master/index.html
