@@ -21,6 +21,6 @@ _________________________________________________
 - Check the repository --> https://github.com/kitpao/Design_teardown
 - See the result --> https://raw.githack.com/kitpao/Design_teardown/master/index.html
 
-**Smashing Magazine design heatmap page** _learning to use Responsive design, compatible with smartphones, tablets and desktop_
+**The NExt Web clone page** _learning to use Responsive design, compatible with smartphones, tablets and desktop_
 - Check the repository --> https://github.com/kitpao/Responsive-Design
 - See the result --> https://raw.githack.com/kitpao/Responsive-Design/master/index.html
