@@ -34,5 +34,10 @@ _________________________________________________
 **Swipex page** _Simulating a real-world project, built with business specifications and deadlines_
 - Check the repository --> https://github.com/kitpao/capstone_project
 - See the result --> https://raw.githack.com/kitpao/capstone_project/master/index.html
-
 ________________________________
+
+## Ruby Section
+**Implementation of Bubble Sort** _This assignment is focused on the use of yield and passing a block to a method_
+- Check the repository --> https://github.com/kitpao/Bubble_Sort_Algorithm
+- See the result --> https://raw.githack.com/kitpao/Youtube_Clone_Project_for_Microverse/master/index.html
+
