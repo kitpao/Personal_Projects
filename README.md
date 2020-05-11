@@ -38,6 +38,6 @@ ________________________________
 
 ## Ruby Section
 **Implementation of Bubble Sort** _This assignment is focused on the use of yield and passing a block to a method_
-- Check the repository --> https://github.com/kitpao/Bubble_Sort_Algorithm
-- See the result --> https://raw.githack.com/kitpao/Youtube_Clone_Project_for_Microverse/master/index.html
+- Check the repository with complete instructions --> https://github.com/kitpao/Bubble_Sort_Algorithm
+- See the result (to run the program, type in the online terminal `ruby bubble_sort.rb`) --> https://gitpod.io/github.com/kitpao/Bubble_Sort_Algorithm
 
