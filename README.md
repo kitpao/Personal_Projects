@@ -40,4 +40,5 @@ ________________________________
 **Implementation of Bubble Sort** _This assignment is focused on the use of yield and passing a block to a method_
 - Check the repository with complete instructions --> https://github.com/kitpao/Bubble_Sort_Algorithm
 - See the result (to run the program, type in the online terminal `ruby bubble_sort.rb`) --> https://gitpod.io/github.com/kitpao/Bubble_Sort_Algorithm
+- To see my logic behind the code, here is my article: https://medium.com/swlh/bubble-sort-algorithm-how-to-develop-your-computational-thinking-c092a9b4bf16
 
